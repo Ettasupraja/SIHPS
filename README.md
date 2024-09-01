@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/55c8533a-b4f6-4b56-bf07-17e6ff1e3ddf)# Smart India Hackathon Workshop
+# Smart India Hackathon Workshop
 # Date: 01-09-2024
 ## Register Number:212223220022
 ## Name: ETTA SUPRAJA
@@ -18,7 +18,7 @@ The idea revolves around establishing a network of community-based e-waste recyc
 
 ## Use Cases
 
-![image](https://github.com/user-attachments/assets/b79796cf-c732-4843-80d7-d9db315706c2)
+![image](https://github.com/user-attachments/assets/55c8533a-b4f6-4b56-bf07-17e6ff1e3ddf)
 
 ## Technology Stack
 Creating an effective technology stack for e-waste management involves integrating various technologies that support the collection, tracking, processing, and recycling of electronic waste. Below is an overview of a typical technology stack for e-waste management:
